@@ -1,0 +1,87 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body{
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+}
+.alineacion_centro{
+  text-align: center;
+}
+.negritas{
+  font-weight: bold;
+}
+.margen{
+  padding: 20px;
+}
+.ancho{
+  max-width: 1200px;
+  margin: auto;
+  border: 1px rad solid;
+}
+.formulario1{
+  border: 2px black solid;
+  margin: auto;
+  width: 80%;
+  border-radius: 20px;
+}
+.elementos{
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 500px;
+}
+.elementos2{
+  border: 2px black solid;
+  border-radius: 10px ;
+  padding: 10 px;
+  max-width: 500px;
+  padding: 10px;
+}
+.btn_rojo{
+  background-color: #800000;
+  color: white;
+  border-radius:40px ;
+  border: 0;
+  padding: 10px 30px;
+}
+fieldset{
+  border: 1px solid #ececec;
+  border-radius: 10 px;
+  padding: 20px;
+  background-color: #ececec;
+  text-align: center;
+  width: 600px;
+  margin: auto  ;
+}
+legend {
+  padding: 10px;
+  color: white;
+  background-color: black;
+  margin: auto;
+}
+.caja{
+  margin: 0px;
+  padding: 20px;
+}
+.radios{
+  border-radius: 20px;
+
+}
+input{
+  margin-bottom: 30px;
+}
+select{
+  width: 500px;
+  border: 2px black solid;
+  border-radius: 5px;
+  height: 30px;
+}
+.contenedor{
+  background-color: gray;
+  width: 70%;
+  margin: auto;
+  height: 70px;
+}
